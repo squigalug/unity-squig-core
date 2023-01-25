@@ -1,0 +1,10 @@
+{
+  "name": "com.squigalug.squig-core",
+  "version": "1.0.0",
+  "displayName": "Squigalug Game Core",
+  "description": "Squigalug Game Core Package",
+  "unity": "2019.1",
+  "dependencies": {},
+  "keywords": [ "library", "core" ],
+  "author": {"name": "James Bailey"}
+}
